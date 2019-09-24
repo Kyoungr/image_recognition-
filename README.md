@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # CSCI495-C2
 
 ## Description / Purpose
-The purpose of this project was for me to get my feet wet with building React components and implementing them within a react web application. The longest part of this project was understanding the syntax and how it relates to Javascript. For my job in nashville I will possibly be tasked with building services with React and Javascript so this project helped me gain working experience. I enjoyed using face detecting apis and playing around with different components. 
+The purpose of this project was for me to get my feet wet with building React components and implementing them within a react web application. The longest part of this project was understanding the syntax and how it relates to Javascript. For my job in Nashville, I will possibly be tasked with building services with React and Javascript so this project helped me gain working experience. I enjoyed using face detecting APIs and playing around with different components.
 
 
 ## Dependencies
