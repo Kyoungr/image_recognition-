@@ -29,7 +29,7 @@ I am an Information Technology/Information Systems double major with a full time
 
 In the project directory, you can run:
 
-## 'npm install`
+## `npm install`
 ### `npm run start`
 
 Runs the app in the development mode.<br>
